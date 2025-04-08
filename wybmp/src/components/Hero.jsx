@@ -9,12 +9,12 @@ const Hero = () => {
 
       {/* Content layer */}
       <div className="flex justify-center pt-12 z-10 relative">
-        <h1 className="text-6xl text-[#993352] font-extrabold text-center">
+        <h1 className="text-6xl text-[#993352] font-extrabold text-center font">
           WILL YOU COME to PROM WITH ME
         </h1>
       </div>
 
-      <div className="flex justify-center mt-20 px-4 z-10 relative">
+      <div className="flex justify-center mt-15 px-4 z-10 relative">
         <p className="text-5xl text-center font-extrabold max-w-8xl text-[#ff4c7f] leading-snug ">
           Okay, hear me out <br />  <span class="text-transparent bg-clip-text bg-gradient-to-l to-[#cc003a] from-[#993352]">Me + You + Prom = Unforgettable Night.</span>
           <br />
