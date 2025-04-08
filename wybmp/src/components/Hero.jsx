@@ -10,7 +10,7 @@ const Hero = () => {
       {/* Content layer */}
       <div className="flex justify-center pt-12 z-10 relative">
         <h1 className="text-6xl text-[#993352] font-extrabold text-center">
-          WILL YOU BE MY PROM!
+          WILL YOU COME to PROM WITH ME
         </h1>
       </div>
 
