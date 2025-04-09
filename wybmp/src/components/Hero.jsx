@@ -104,10 +104,10 @@ const Hero = () => {
         So, is it a Yes
       </h1>
       
-      {/* Image - centered on mobile, bottom left on larger screens */}
-      <div className="absolute inset-x-0 bottom-0 flex justify-center md:justify-start md:left-0 w-full z-10">
+      {/* Image - centered on mobile, bottom left on larger screens with LARGER size on desktop */}
+      <div className="absolute inset-x-0 bottom-0 flex justify-center md:justify-start md:left-0 w-full z-0">
         <img
-          className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg pointer-events-none"
+          className="w-full max-w-xs sm:max-w-sm md:max-w-xl lg:max-w-2xl xl:max-w-4xl pointer-events-none"
           src={promsvg}
           alt="prom decoration"
         />
