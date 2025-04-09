@@ -71,7 +71,7 @@ const Hero = () => {
       {/* Content layer */}
       <div className="flex justify-center pt-4 sm:pt-6 md:pt-8 lg:pt-12 z-10 relative">
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-[#993352] font-extrabold text-center">
-          WILL YOU COME TO PROM WITH ME
+           URVASHI✨ WILL YOU COME TO PROM WITH ME
         </h1>
       </div>
       
@@ -107,7 +107,7 @@ const Hero = () => {
       {/* Image - centered on mobile, bottom left on larger screens with LARGER size on desktop */}
       <div className="absolute inset-x-0 bottom-0 flex justify-center md:justify-start md:left-0 w-full z-0">
         <img
-          className="w-full max-w-xs sm:max-w-sm md:max-w-xl lg:max-w-2xl xl:max-w-4xl pointer-events-none"
+          className="w-full max-w-xs sm:max-w-sm md:max-w-xl lg:max-w-2xl xl:max-w-3xl pointer-events-none"
           src={promsvg}
           alt="prom decoration"
         />
