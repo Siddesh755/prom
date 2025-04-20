@@ -69,16 +69,16 @@ const Hero = () => {
       <TextCursor />
       
       {/* Content layer */}
-      <div className="flex justify-center pt-4 sm:pt-6 md:pt-8 lg:pt-12 z-10 relative">
-        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-[#993352] font-extrabold text-center">
-<<<<<<< Updated upstream
+      <div className="flex  justify-center pt-4 sm:pt-6 md:pt-8 lg:pt-12 z-10 relative text-center ">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-[#993352] font-extrabold ">
+
             Will you be my prom?
-=======
-          WILL YOU COME TO PROM WITH ME
->>>>>>> Stashed changes
+
+         
+
         </h1>
         <li>
-          <a href="https://github.com/Siddesh755" class="hover:underline text-white">Siddeesh Navthale</a>
+          <a href="https://github.com/Siddesh755" class="hover:underline text-Black">Made by Siddeesh Navthale</a>
         </li>
       </div>
       
