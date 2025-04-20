@@ -78,7 +78,7 @@ const Hero = () => {
 
         </h1>
         <li>
-          <a href="https://github.com/Siddesh755" class="hover:underline text-Black">Made by Siddeesh Navthale</a>
+          <a href="https://github.com/Siddesh755" class="hover:underline text-Black">Made by Siddesh Navthale</a>
         </li>
       </div>
       
